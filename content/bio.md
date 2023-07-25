@@ -4,7 +4,7 @@ title: "personal"
 draft: false
 ---
 
-## Best Places to Eat
+## Best Places to Eat Around the Globe
 
 ### Ratna Cafe (Chennai, India):
 Probably the best sambar vada in the world and decent filter coffee. 
@@ -14,9 +14,6 @@ The best pizza I have ever had in my life.
 
 ### Elephant (Vancouver, Canada):
 Their omakase (really a price fixe menu) is the best in Vancouver.
-
-### Dishoom (London, England)
-Best indian food outside of India. Their okra fries are excellent.
 
 
 ## Where to Eat and Drink
@@ -107,7 +104,6 @@ Best indian food outside of India. Their okra fries are excellent.
 - Benet's Cafe (Cambridge)
 - Padella (London)
 - Round House (London)
-- Dishoom (London)
 - Veeraswamy (London)
 - Gymkhana (London)
 - Homeslice Neal's Yard (London)
