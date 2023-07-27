@@ -48,7 +48,7 @@ My work experiences are acessible here: [:bookmark_tabs: resume](resume.pdf).
 </table>
 
 
-## Papers
+## Publications and Pre-Prints
 ### 2023
 1. (Pre-Print) **Pay to (Not) Play: Monetizing Impatience in Mobile Games** <br> T. Lundy, **N. Raman**, H. Fu, K. Leyton-Brown. <br> [[paper]](#)
 ### 2020

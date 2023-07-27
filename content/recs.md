@@ -1,22 +1,25 @@
 ---
-title: "personal"
+title: "Food & Drink"
 # date: 2021-08-09T12:42:41-05:00
 draft: false
 ---
 
-## Best Places to Eat Around the Globe
+## Mount Rushmore of Restaurants
 
-### Ratna Cafe (Chennai, India):
-Probably the best sambar vada in the world and decent filter coffee. 
+### Ratna Cafe (Adyar, Chennai):
+> My dad's hometown cafe, and for good reason. Probably the best sambar in the world, the vada and idli sambar are worth a detour. Vada is perfectly cripsy on the outside and packs a ton of flavour inside, but be sure to eat it quickly before the sambar makes it too soggy. Weirdly the only thing I could actually keep down when I had amoebic dysentery.
 
-### per se Social Corner (Vancouver, Canada):
-The best pizza I have ever had in my life.
+### [per se Social Corner](http://persesocialcorner.com/) (Vancouver, BC):
+> The best pizza I have ever had in my life. Their dough is apparently fermented for 72 hours and then baked in an open flame brick oven and it just works. I got the Tartufina but I am sure you can't go wrong with any other option -- the dough is the star. 
 
-### Elephant (Vancouver, Canada):
-Their omakase (really a price fixe menu) is the best in Vancouver.
+### [Elephant](https://www.elephantinvancouver.com/) (Vancouver, BC):
+> Tiny little place with around 15 seats packed together together with their omakase (in reality, a tasting menu) is my favorite eating experience in my adult life. We sat at the counter in front of the chef which was a great but dangerous choice; ended up going in on 2 bottles of wine and an extra course.
+
+### [Little Collins](https://www.littlecollins.nl/) (Amsterdam, Netherlands):
+> The sister location for brunch/breakfast in De Pijp, they have a rotating menu but the yogurt sucuk bowl was fantastic. Also in a country of great coffee the mocha was fantastic. Would love to try Collins at some point whenever I am back in Amsterdam if its anything like the little version. 
 
 
-## Where to Eat and Drink
+## Honorable Mentions
 
 <details>
 <summary> <strong> British Columbia </strong> </summary>
@@ -50,20 +53,22 @@ Their omakase (really a price fixe menu) is the best in Vancouver.
 <details>
 <summary> <strong> California </strong> </summary>
 
-- Ettan (Palo Alto)
-- Pasta Moon (Half Moon Bay)
-- Taqueria El Farolito (San Francisco)
+- Besharam (San Francisco)
 - DamnFine (San Francisco)
+- La Taqueria (San Francisco)
+- Mensho Tokyo SF (San Francisco)
 - Plow (San Francisco)
 - ROOH SF (San Francisco)
-- Mensho Tokyo SF (San Francisco)
-- La Taqueria (San Francisco)
+- Taqueria El Farolito (San Francisco)
 - La Note (Berkeley)
 - Spoon Korean Bistro (Berkeley)
+- Pasta Moon (Half Moon Bay)
+- Ettan (Palo Alto)
 </details>
 
 <details>
 <summary> <strong> Utah </strong> </summary>
+
 - Ivy & Varley (Salt Lake City)
 - Lake Effect (Salt Lake City)
 - Banbury Cross Donuts (Salt Lake City)
@@ -71,20 +76,21 @@ Their omakase (really a price fixe menu) is the best in Vancouver.
 
 <details>
 <summary> <strong> Iowa </strong> </summary>
+
 - Pullman Bar and Grill (Iowa City)
 - Big Grove Brewery & Taproom (Iowa City)
 </details>
 
 <details>
 <summary> <strong> Minnesota </strong> </summary> 
-- Kumar's (Apple Valley)
+
 - Hola Arepa (Minneapolis)
 - Hen House Eatery (Minneapolis)
-- Sen Yai Sen Lek (Minneapolis)
 </details>
 
 <details>
 <summary> <strong> Wisconsin </strong> </summary>
+
 - A Pig in a Fur Coat (Madison)
 - Bradbury's Coffee (Madison)
 - Marigold Kitchen (Madison)
@@ -93,12 +99,8 @@ Their omakase (really a price fixe menu) is the best in Vancouver.
 </details>
 
 <details>
-<summary> <strong> Spain </strong> </summary>
-- La Papardella (Valencia)
-</details>
-
-<details>
 <summary> <strong> England </strong> </summary>
+
 - Bibimbap House (Cambridge)
 - Trockel, Ulmann & Freunde (Cambridge)
 - Benet's Cafe (Cambridge)
@@ -112,3 +114,7 @@ Their omakase (really a price fixe menu) is the best in Vancouver.
 </details>
 
 
+## In Memorium
+
+- Chino Latino (Minneapolis)
+- Sen Yai Sen Lek (Minneapolis)
