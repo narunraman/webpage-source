@@ -4,7 +4,7 @@ date: 2021-08-09T11:31:32-05:00
 draft: false
 ---
 
-## a little about me
+<!-- ## a little about me -->
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
 I pronounce my name like Maroon (with an N) Ramen -- quite an unappetizing sight.[^1] Having said that, please feel free to email me pictures of oddly colored noodles that you have made or found: 
@@ -13,11 +13,11 @@ I pronounce my name like Maroon (with an N) Ramen -- quite an unappetizing sight
 <!-- <span style="color:#dc3545">narunram</span> [at] <span style="color:#dc3545">cs</span> [dot] <span style="color:#dc3545">ubc</span> [dot] <span style="color:#dc3545">ca</span>.   -->
 <!-- ```narunram``` [<span style="color:#dc3545">at</span>] ```cs``` [<span style="color:#dc3545">dot</span>] ```ubc``` [<span style="color:#dc3545">dot</span>] ```ca```. -->
 
-I am currently a Master's student under Kevin Leyton-Brown pursuing Computer Science at the University of British Columbia.
-My research interests are listed below and primarily center around understanding behavior in mobile games and other digital spaces. 
-I am very available via email; please do reach out if you would like to collaborate or chat – I would love to get coffee.[^2] 
+I am wrapping up a Master's under Kevin Leyton-Brown and will be continuing with a Ph.D. in Computer Science at the University of British Columbia in 2024.
+My research interests are listed below and primarily center around understanding the quirks of human behavior in digital spaces. 
+I am very available via email so please do reach out if you would like to collaborate or chat, I would love to get coffee.[^2] 
 
-My work experiences are acessible here: [:bookmark_tabs: resume](resume.pdf).
+My work experiences are accessible here: [:bookmark_tabs: resume](resume.pdf).
 
 <table>
 <col style="width:50%">
@@ -33,8 +33,6 @@ My work experiences are acessible here: [:bookmark_tabs: resume](resume.pdf).
     - Behavioral Models
     <br>
     - Mechanism Design
-    <br>
-    - Algorithmic Fairness
     </td>
     <td>
     <span style="float:left">University of British Columbia</span> <span style="color:grey;float:right">2021-2023</span> 
@@ -50,10 +48,10 @@ My work experiences are acessible here: [:bookmark_tabs: resume](resume.pdf).
 
 ## Publications and Pre-Prints
 ### 2023
-1. (Pre-Print) **Pay to (Not) Play: Monetizing Impatience in Mobile Games** <br> T. Lundy, **N. Raman**, H. Fu, K. Leyton-Brown. <br> [[paper]](#)
+1. (Pre-Print) **Pay to (Not) Play: Monetizing Impatience in Mobile Games** <br> T. Lundy, **N. Raman**, H. Fu, K. Leyton-Brown. <br> [[paper]](#) [[poster]](ec2023.pdf)
 ### 2020
 1. **Classifying Wikipedia article quality with revision history networks** in the *16th International Symposium on Open Collaboration (OpenSym)* <br> **N. Raman**, N. Sauerberg, J. Fisher, A. Partida, S. Narayan. <br> [[paper]](https://opensym.org/wp-content/uploads/2020/08/os20-paper-a5-raman.pdf) 
-2. **ALCH: An Imperative Language for Chemical Reaction Network-Controlled Tile Assembly** in the *26th International Conference on DNA Computing and Molecular Programming (DNA 26)* <br>  T. Klinge, J. Lathrop, S. Moreno, H. Potter, **N. Raman**, M. Riley. <br> [[paper]](https://drops.dagstuhl.de/opus/volltexte/2020/12959/pdf/LIPIcs-DNA-2020-6.pdf)&nbsp;[[poster]](#)
+2. **ALCH: An Imperative Language for Chemical Reaction Network-Controlled Tile Assembly** in the *26th International Conference on DNA Computing and Molecular Programming (DNA 26)* <br>  T. Klinge, J. Lathrop, S. Moreno, H. Potter, **N. Raman**, M. Riley. <br> [[paper]](https://drops.dagstuhl.de/opus/volltexte/2020/12959/pdf/LIPIcs-DNA-2020-6.pdf)&nbsp;[[poster]](dna2019.pdf)
 
 ## Other News
 - I recently TA'd for Kevin's Winter 2023 course [Models of Strategic Behavior](https://www.cs.ubc.ca/~kevinlb/teaching/cs532l/). 

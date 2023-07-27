@@ -6,17 +6,17 @@ draft: false
 
 ## Mount Rushmore of Restaurants
 
-### Ratna Cafe (Adyar, Chennai):
+### :mountain_snow: Ratna Cafe (Adyar, Chennai):
 > My dad's hometown cafe, and for good reason. Probably the best sambar in the world, the vada and idli sambar are worth a detour. Vada is perfectly cripsy on the outside and packs a ton of flavour inside, but be sure to eat it quickly before the sambar makes it too soggy. Weirdly the only thing I could actually keep down when I had amoebic dysentery.
 
-### [per se Social Corner](http://persesocialcorner.com/) (Vancouver, BC):
+### :mountain_snow: [per se Social Corner](http://persesocialcorner.com/) (Vancouver, BC):
 > The best pizza I have ever had in my life. Their dough is apparently fermented for 72 hours and then baked in an open flame brick oven and it just works. I got the Tartufina but I am sure you can't go wrong with any other option -- the dough is the star. 
 
-### [Elephant](https://www.elephantinvancouver.com/) (Vancouver, BC):
+### :mountain_snow: [Elephant](https://www.elephantinvancouver.com/) (Vancouver, BC):
 > Tiny little place with around 15 seats packed together together with their omakase (in reality, a tasting menu) is my favorite eating experience in my adult life. We sat at the counter in front of the chef which was a great but dangerous choice; ended up going in on 2 bottles of wine and an extra course.
 
-### [Little Collins](https://www.littlecollins.nl/) (Amsterdam, Netherlands):
-> The sister location for brunch/breakfast in De Pijp, they have a rotating menu but the yogurt sucuk bowl was fantastic. Also in a country of great coffee the mocha was fantastic. Would love to try Collins at some point whenever I am back in Amsterdam if its anything like the little version. 
+### :mountain_snow: [Little Collins](https://www.littlecollins.nl/) (Amsterdam, Netherlands):
+> The sister location for brunch/breakfast in De Pijp, they have a rotating menu but the yogurt sucuk bowl was fantastic. Also in a country of great coffee, their mocha was absolutely fantastic. Would love to try Collins at some point whenever I am back in Amsterdam if its anything like the little version. 
 
 
 ## Honorable Mentions
@@ -114,7 +114,8 @@ draft: false
 </details>
 
 
-## In Memorium
+### In Memorium
 
-- Chino Latino (Minneapolis)
-- Sen Yai Sen Lek (Minneapolis)
+:skull: Chino Latino (Minneapolis)
+
+:skull: Sen Yai Sen Lek (Minneapolis)
