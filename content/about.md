@@ -47,8 +47,10 @@ My work experiences are accessible here: [:bookmark_tabs: resume](resume.pdf).
 
 
 ## Publications and Pre-Prints
-### 2023
-1. (Pre-Print) **Pay to (Not) Play: Monetizing Impatience in Mobile Games** <br> T. Lundy, **N. Raman**, H. Fu, K. Leyton-Brown. <br> [[paper]](#) [[poster]](ec2023.pdf)
+### 2024
+1. **Pay to (Not) Play: Monetizing Impatience in Mobile Games** in the *38th Conference on Artificial Intelligence (AAAI-24)* <br> T. Lundy, **N. Raman**, H. Fu, K. Leyton-Brown. <br> [[arXiv]](https://arxiv.org/abs/2312.10205) [[poster]](ec2023.pdf)
+2. **Rationality Report Cards: Assessing the Economic Rationality in Large Language Models** <br> **N. Raman**, T. Lundy, S. Amouyal, Y. Levine, K. Leyton-Brown, M. Tennenholtz. <br> [[arXiv]](#)
+2. **Determinants of Conspicuous Consumption: NFTs as a Data-Rich Test Bed** <br> T. Lundy, **N. Raman**, S. Kominers, K. Leyton-Brown. <br> [[arXiv]](#)
 ### 2020
 1. **Classifying Wikipedia article quality with revision history networks** in the *16th International Symposium on Open Collaboration (OpenSym)* <br> **N. Raman**, N. Sauerberg, J. Fisher, A. Partida, S. Narayan. <br> [[paper]](https://opensym.org/wp-content/uploads/2020/08/os20-paper-a5-raman.pdf) 
 2. **ALCH: An Imperative Language for Chemical Reaction Network-Controlled Tile Assembly** in the *26th International Conference on DNA Computing and Molecular Programming (DNA 26)* <br>  T. Klinge, J. Lathrop, S. Moreno, H. Potter, **N. Raman**, M. Riley. <br> [[paper]](https://drops.dagstuhl.de/opus/volltexte/2020/12959/pdf/LIPIcs-DNA-2020-6.pdf)&nbsp;[[poster]](dna2019.pdf)
