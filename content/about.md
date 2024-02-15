@@ -55,7 +55,8 @@ My work experiences are accessible here: [:bookmark_tabs: resume](resume.pdf).
 
 ## Other News
 - I recently TA'd for Kevin's Winter 2023 course [Models of Strategic Behavior](https://www.cs.ubc.ca/~kevinlb/teaching/cs532l/). 
-- Work that I was part of was presented at the [2023 Bellairs](https://www.math.mcgill.ca/vetta/workshop.html) conference by [Taylor Lundy](https://www.cs.ubc.ca/~tlundy/). <br> [[slides]](bellairs.pptx)
+
+- Our work on mobile game monetization was presented by my coauthor  [Taylor Lundy](https://www.cs.ubc.ca/~tlundy/) at [2023 Bellairs](https://www.math.mcgill.ca/vetta/workshop.html). <br> [[slides]](bellairs.pptx)
 
 <!-- ---------
 ## Work Experiences
